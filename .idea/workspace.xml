@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6fc54a4-5fde-4750-96ab-3e54116ed4b1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Explanation/Explanation.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Explanation/ExternalDependencies.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SampleExamples/SampleInput/0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SampleExamples/SampleInput/1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SampleExamples/SampleOutput/0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SampleExamples/SampleOutput/1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SampleExamples/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/readme.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,11 +15,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Explanation.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Explanation.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Explanation/Explanation.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="76" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="108" column="17" lean-forward="true" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -52,6 +55,7 @@
       <list>
         <option value="$PROJECT_DIR$/Explanation/Explanation.txt" />
         <option value="$PROJECT_DIR$/Explanation/ExternalDependencies.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -367,6 +371,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="76" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="108" column="17" lean-forward="true" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
           <folding />
         </state>
       </provider>

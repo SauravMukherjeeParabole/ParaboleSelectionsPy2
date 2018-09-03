@@ -23,7 +23,7 @@ if __name__ == '__main__':
     logging.basicConfig(level=logging.INFO, format='%(asctime)s:%(levelname)s:%(message)s')
 
     #Folder where the input files are present
-    mypath = "data//input"
+    mypath = "data/input"
     list_of_input_files = read_directory(mypath)
     logging.debug(list_of_input_files)
     for each_file in list_of_input_files:
